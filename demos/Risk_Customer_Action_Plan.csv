@@ -1,0 +1,455 @@
+Age,Contract Type,Monthly Charges,Tenure,Predicted_Churn,Recommended_Action
+19,0,61.19,31,1,Call from VIP Agent
+49,2,74.38,10,1,Send Standard Retention Email
+31,0,44.42,13,1,Send Standard Retention Email
+46,0,48.55,6,1,Send Standard Retention Email
+65,0,99.07,15,1,Offer 15% Discount
+26,0,84.84,2,1,Offer 15% Discount
+19,0,74.65,5,1,Send Satisfaction Survey
+72,0,27.05,9,1,Send Standard Retention Email
+49,1,65.31,1,1,Send Satisfaction Survey
+32,0,72.37,21,1,Send Standard Retention Email
+31,0,98.24,44,1,Offer 15% Discount
+64,0,65.21,9,1,Send Standard Retention Email
+30,0,63.45,28,1,Call from VIP Agent
+78,0,113.53,8,1,Offer 15% Discount
+39,0,87.23,41,1,Offer 15% Discount
+39,0,117.92,31,1,Offer 15% Discount
+75,1,112.53,21,1,Offer 15% Discount
+23,0,60.45,26,1,Call from VIP Agent
+20,0,53.89,35,1,Call from VIP Agent
+40,0,103.11,15,1,Offer 15% Discount
+77,0,29.95,6,1,Send Standard Retention Email
+72,0,85.04,39,1,Offer 15% Discount
+22,0,81.37,32,1,Offer 15% Discount
+47,2,91.57,8,1,Offer 15% Discount
+59,0,29.91,15,1,Send Standard Retention Email
+34,0,81.14,37,1,Offer 15% Discount
+23,0,65.21,27,1,Call from VIP Agent
+47,2,103.58,41,1,Offer 15% Discount
+68,0,108.89,3,1,Offer 15% Discount
+78,1,114.69,6,1,Offer 15% Discount
+36,0,39.93,18,1,Send Standard Retention Email
+31,0,94.91,18,1,Offer 15% Discount
+35,0,35.59,36,1,Call from VIP Agent
+62,0,37.66,3,1,Send Satisfaction Survey
+54,0,61.13,11,1,Send Standard Retention Email
+27,0,107.09,8,1,Offer 15% Discount
+56,0,50.52,3,1,Send Satisfaction Survey
+19,0,64.39,9,1,Send Standard Retention Email
+41,0,54.41,33,1,Call from VIP Agent
+75,0,54.38,23,1,Send Standard Retention Email
+33,1,106.24,1,1,Offer 15% Discount
+69,0,109.73,4,1,Offer 15% Discount
+69,2,106.34,11,1,Offer 15% Discount
+37,0,34.0,10,1,Send Standard Retention Email
+19,1,89.36,46,1,Offer 15% Discount
+71,0,113.73,39,1,Offer 15% Discount
+66,0,96.33,9,1,Offer 15% Discount
+20,0,87.96,41,1,Offer 15% Discount
+20,2,90.91,3,1,Offer 15% Discount
+47,2,81.81,2,1,Offer 15% Discount
+25,0,53.14,13,1,Send Standard Retention Email
+43,0,51.55,44,1,Call from VIP Agent
+21,0,47.67,21,1,Send Standard Retention Email
+68,0,62.83,38,1,Call from VIP Agent
+31,0,80.87,43,1,Offer 15% Discount
+44,0,72.88,6,1,Send Standard Retention Email
+56,0,98.97,17,1,Offer 15% Discount
+45,0,115.57,3,1,Offer 15% Discount
+28,1,103.0,37,1,Offer 15% Discount
+79,0,94.58,10,1,Offer 15% Discount
+66,1,76.0,8,1,Send Standard Retention Email
+55,0,79.37,10,1,Send Standard Retention Email
+51,0,96.32,34,1,Offer 15% Discount
+67,0,107.56,7,1,Offer 15% Discount
+37,2,80.92,4,1,Offer 15% Discount
+66,0,90.68,38,1,Offer 15% Discount
+21,0,62.35,36,1,Call from VIP Agent
+65,0,97.87,27,1,Offer 15% Discount
+38,0,43.73,11,1,Send Standard Retention Email
+21,0,100.77,6,1,Offer 15% Discount
+29,0,97.42,27,1,Offer 15% Discount
+27,0,59.41,1,1,Send Satisfaction Survey
+61,0,102.7,8,1,Offer 15% Discount
+43,0,48.22,44,1,Call from VIP Agent
+28,0,118.8,11,1,Offer 15% Discount
+69,2,104.81,5,1,Offer 15% Discount
+31,1,82.73,43,1,Offer 15% Discount
+70,0,93.41,25,1,Offer 15% Discount
+18,0,38.68,6,1,Send Standard Retention Email
+51,0,97.31,63,1,Offer 15% Discount
+74,0,92.65,10,1,Offer 15% Discount
+41,1,85.99,14,1,Offer 15% Discount
+46,0,52.16,5,1,Send Satisfaction Survey
+50,0,40.18,6,1,Send Standard Retention Email
+27,1,100.57,42,1,Offer 15% Discount
+25,1,88.76,25,1,Offer 15% Discount
+30,0,100.12,21,1,Offer 15% Discount
+66,0,90.48,23,1,Offer 15% Discount
+27,0,30.35,7,1,Send Standard Retention Email
+21,0,78.77,4,1,Send Satisfaction Survey
+35,0,107.68,38,1,Offer 15% Discount
+45,0,43.95,2,1,Send Satisfaction Survey
+78,0,25.66,1,1,Send Satisfaction Survey
+39,2,90.68,4,1,Offer 15% Discount
+61,0,115.87,31,1,Offer 15% Discount
+45,0,33.18,34,1,Call from VIP Agent
+44,0,84.16,45,1,Offer 15% Discount
+55,0,107.69,50,1,Offer 15% Discount
+78,0,71.4,4,1,Send Satisfaction Survey
+63,0,47.79,4,1,Send Satisfaction Survey
+62,0,38.26,23,1,Send Standard Retention Email
+59,0,22.45,46,1,Call from VIP Agent
+67,0,28.09,4,1,Send Satisfaction Survey
+57,0,111.7,6,1,Offer 15% Discount
+46,1,80.29,23,1,Offer 15% Discount
+47,0,91.07,15,1,Offer 15% Discount
+62,1,76.38,5,1,Send Satisfaction Survey
+48,0,86.19,12,1,Offer 15% Discount
+33,0,116.94,37,1,Offer 15% Discount
+64,1,114.13,4,1,Offer 15% Discount
+50,1,119.77,6,1,Offer 15% Discount
+74,0,25.56,37,1,Call from VIP Agent
+46,0,23.94,34,1,Call from VIP Agent
+32,0,95.34,10,1,Offer 15% Discount
+20,0,63.16,37,1,Call from VIP Agent
+44,0,32.41,13,1,Send Standard Retention Email
+72,1,114.68,15,1,Offer 15% Discount
+28,1,105.05,43,1,Offer 15% Discount
+64,0,108.27,26,1,Offer 15% Discount
+30,0,23.58,7,1,Send Standard Retention Email
+56,0,104.3,19,1,Offer 15% Discount
+42,0,24.91,10,1,Send Standard Retention Email
+51,0,118.25,26,1,Offer 15% Discount
+28,0,72.03,14,1,Send Standard Retention Email
+19,1,32.92,7,1,Send Standard Retention Email
+64,0,58.15,43,1,Call from VIP Agent
+55,1,97.47,42,1,Offer 15% Discount
+58,0,95.79,51,1,Offer 15% Discount
+41,1,84.16,43,1,Offer 15% Discount
+71,1,110.69,11,1,Offer 15% Discount
+20,0,104.09,37,1,Offer 15% Discount
+45,0,92.67,56,1,Offer 15% Discount
+58,0,66.99,43,1,Call from VIP Agent
+31,0,112.62,28,1,Offer 15% Discount
+31,0,40.03,16,1,Send Standard Retention Email
+46,0,101.31,5,1,Offer 15% Discount
+31,0,26.06,37,1,Call from VIP Agent
+48,0,44.65,30,1,Call from VIP Agent
+38,0,77.69,43,1,Call from VIP Agent
+55,0,41.55,37,1,Call from VIP Agent
+48,0,62.74,40,1,Call from VIP Agent
+36,0,41.01,10,1,Send Standard Retention Email
+41,0,113.3,30,1,Offer 15% Discount
+73,0,118.93,40,1,Offer 15% Discount
+45,0,46.8,47,1,Call from VIP Agent
+56,0,90.87,52,1,Offer 15% Discount
+23,1,112.46,1,1,Offer 15% Discount
+26,0,33.84,8,1,Send Standard Retention Email
+34,0,79.14,37,1,Call from VIP Agent
+30,0,24.78,23,1,Send Standard Retention Email
+53,0,107.41,18,1,Offer 15% Discount
+23,0,74.56,48,1,Call from VIP Agent
+37,0,53.22,8,1,Send Standard Retention Email
+79,0,47.34,5,1,Send Satisfaction Survey
+19,0,46.88,6,1,Send Standard Retention Email
+47,0,106.86,46,1,Offer 15% Discount
+51,0,96.14,53,1,Offer 15% Discount
+31,0,92.38,48,1,Offer 15% Discount
+54,0,56.67,46,1,Call from VIP Agent
+61,0,117.77,28,1,Offer 15% Discount
+79,1,91.59,10,1,Offer 15% Discount
+20,0,91.43,13,1,Offer 15% Discount
+29,0,27.42,2,1,Send Satisfaction Survey
+58,1,98.15,3,1,Offer 15% Discount
+52,0,32.1,10,1,Send Standard Retention Email
+51,0,110.14,16,1,Offer 15% Discount
+61,0,100.85,18,1,Offer 15% Discount
+35,0,115.89,39,1,Offer 15% Discount
+25,1,103.94,43,1,Offer 15% Discount
+60,0,34.39,4,1,Send Satisfaction Survey
+57,0,94.25,53,1,Offer 15% Discount
+35,0,75.5,45,1,Call from VIP Agent
+57,0,41.15,6,1,Send Standard Retention Email
+49,0,52.97,1,1,Send Satisfaction Survey
+76,0,86.18,27,1,Offer 15% Discount
+50,0,97.51,1,1,Offer 15% Discount
+73,0,93.99,13,1,Offer 15% Discount
+77,0,95.55,4,1,Offer 15% Discount
+32,0,119.34,21,1,Offer 15% Discount
+50,0,82.56,19,1,Offer 15% Discount
+35,1,90.65,5,1,Offer 15% Discount
+31,0,110.11,24,1,Offer 15% Discount
+18,0,74.29,11,1,Send Standard Retention Email
+72,0,27.53,5,1,Send Satisfaction Survey
+38,1,82.06,40,1,Offer 15% Discount
+21,0,73.81,3,1,Send Satisfaction Survey
+45,1,56.51,3,1,Send Satisfaction Survey
+45,0,79.33,35,1,Call from VIP Agent
+18,0,74.99,33,1,Call from VIP Agent
+26,0,100.38,67,1,Offer 15% Discount
+51,0,104.87,8,1,Offer 15% Discount
+27,0,29.69,39,1,Call from VIP Agent
+55,2,112.03,1,1,Offer 15% Discount
+62,0,115.41,9,1,Offer 15% Discount
+33,0,45.48,18,1,Send Standard Retention Email
+52,2,105.01,10,1,Offer 15% Discount
+46,1,93.6,43,1,Offer 15% Discount
+39,0,110.51,29,1,Offer 15% Discount
+19,0,43.45,5,1,Send Satisfaction Survey
+47,0,86.82,31,1,Offer 15% Discount
+60,0,114.19,15,1,Offer 15% Discount
+18,0,27.4,8,1,Send Standard Retention Email
+34,0,87.18,15,1,Offer 15% Discount
+42,0,108.06,15,1,Offer 15% Discount
+74,0,50.84,3,1,Send Satisfaction Survey
+36,1,104.92,7,1,Offer 15% Discount
+79,0,82.25,37,1,Offer 15% Discount
+32,0,115.83,30,1,Offer 15% Discount
+21,1,103.32,7,1,Offer 15% Discount
+34,0,83.5,39,1,Offer 15% Discount
+74,0,116.09,6,1,Offer 15% Discount
+22,1,112.78,10,1,Offer 15% Discount
+27,0,108.59,70,1,Offer 15% Discount
+47,1,92.07,43,1,Offer 15% Discount
+21,2,115.03,3,1,Offer 15% Discount
+56,0,97.25,46,1,Offer 15% Discount
+32,0,32.15,5,1,Send Satisfaction Survey
+23,1,103.81,40,1,Offer 15% Discount
+74,0,92.9,43,1,Offer 15% Discount
+54,1,91.92,5,1,Offer 15% Discount
+51,0,110.09,47,1,Offer 15% Discount
+37,0,116.63,18,1,Offer 15% Discount
+46,0,109.73,8,1,Offer 15% Discount
+46,0,111.13,25,1,Offer 15% Discount
+22,0,84.2,43,1,Offer 15% Discount
+55,0,97.47,36,1,Offer 15% Discount
+60,0,117.39,12,1,Offer 15% Discount
+31,2,80.36,4,1,Offer 15% Discount
+22,0,105.21,40,1,Offer 15% Discount
+19,0,36.57,10,1,Send Standard Retention Email
+73,0,84.15,25,1,Offer 15% Discount
+26,0,42.39,40,1,Call from VIP Agent
+67,0,119.59,46,1,Offer 15% Discount
+46,1,118.3,47,1,Offer 15% Discount
+74,0,111.11,38,1,Offer 15% Discount
+43,0,77.62,43,1,Call from VIP Agent
+57,0,105.84,46,1,Offer 15% Discount
+19,1,101.56,10,1,Offer 15% Discount
+52,0,86.68,28,1,Offer 15% Discount
+35,0,110.36,13,1,Offer 15% Discount
+31,0,101.79,59,1,Offer 15% Discount
+68,2,115.23,8,1,Offer 15% Discount
+73,0,86.7,40,1,Offer 15% Discount
+33,0,94.77,15,1,Offer 15% Discount
+38,0,78.87,11,1,Send Standard Retention Email
+19,0,107.98,33,1,Offer 15% Discount
+45,0,108.42,29,1,Offer 15% Discount
+42,0,78.02,7,1,Send Standard Retention Email
+77,0,102.5,28,1,Offer 15% Discount
+43,0,24.01,5,1,Send Satisfaction Survey
+75,0,80.68,36,1,Offer 15% Discount
+45,0,71.44,35,1,Call from VIP Agent
+77,0,100.72,4,1,Offer 15% Discount
+76,0,69.86,11,1,Send Standard Retention Email
+77,0,40.48,8,1,Send Standard Retention Email
+43,0,115.65,5,1,Offer 15% Discount
+28,0,109.0,16,1,Offer 15% Discount
+52,0,112.41,27,1,Offer 15% Discount
+45,0,113.46,25,1,Offer 15% Discount
+35,0,97.84,6,1,Offer 15% Discount
+55,0,93.61,10,1,Offer 15% Discount
+37,0,81.07,42,1,Offer 15% Discount
+41,0,59.34,33,1,Call from VIP Agent
+36,0,73.05,10,1,Send Standard Retention Email
+18,0,83.65,44,1,Offer 15% Discount
+23,1,84.59,10,1,Offer 15% Discount
+31,1,98.08,5,1,Offer 15% Discount
+79,0,96.18,6,1,Offer 15% Discount
+71,0,70.92,3,1,Send Satisfaction Survey
+79,0,109.72,26,1,Offer 15% Discount
+70,0,20.57,11,1,Send Standard Retention Email
+58,0,111.78,19,1,Offer 15% Discount
+66,1,109.82,10,1,Offer 15% Discount
+49,0,85.82,33,1,Offer 15% Discount
+26,0,101.82,45,1,Offer 15% Discount
+70,0,101.92,10,1,Offer 15% Discount
+38,1,91.26,46,1,Offer 15% Discount
+36,0,88.59,36,1,Offer 15% Discount
+59,0,57.82,2,1,Send Satisfaction Survey
+66,0,105.64,54,1,Offer 15% Discount
+67,0,108.91,3,1,Offer 15% Discount
+52,0,105.31,13,1,Offer 15% Discount
+27,1,112.21,46,1,Offer 15% Discount
+28,0,96.75,32,1,Offer 15% Discount
+28,0,61.85,40,1,Call from VIP Agent
+19,0,78.68,8,1,Send Standard Retention Email
+36,0,112.4,36,1,Offer 15% Discount
+55,0,39.19,35,1,Call from VIP Agent
+70,0,116.23,14,1,Offer 15% Discount
+35,0,91.97,47,1,Offer 15% Discount
+66,0,69.33,5,1,Send Satisfaction Survey
+66,1,113.68,29,1,Offer 15% Discount
+33,0,65.96,32,1,Call from VIP Agent
+36,2,116.32,11,1,Offer 15% Discount
+18,2,88.11,4,1,Offer 15% Discount
+23,0,118.0,28,1,Offer 15% Discount
+33,0,107.79,11,1,Offer 15% Discount
+24,0,43.26,5,1,Send Satisfaction Survey
+50,1,69.3,10,1,Send Standard Retention Email
+62,0,62.99,7,1,Send Standard Retention Email
+31,0,54.12,7,1,Send Standard Retention Email
+35,0,102.94,34,1,Offer 15% Discount
+18,0,116.89,30,1,Offer 15% Discount
+34,0,99.65,33,1,Offer 15% Discount
+54,0,107.7,21,1,Offer 15% Discount
+53,0,28.41,18,1,Send Standard Retention Email
+21,0,89.86,38,1,Offer 15% Discount
+39,0,107.2,29,1,Offer 15% Discount
+68,0,77.55,3,1,Send Satisfaction Survey
+26,2,66.7,8,1,Send Standard Retention Email
+53,0,24.01,8,1,Send Standard Retention Email
+63,0,57.97,4,1,Send Satisfaction Survey
+31,0,46.35,32,1,Call from VIP Agent
+60,0,55.85,38,1,Call from VIP Agent
+50,0,98.71,65,1,Offer 15% Discount
+30,0,80.87,39,1,Offer 15% Discount
+62,0,62.47,35,1,Call from VIP Agent
+49,1,96.17,29,1,Offer 15% Discount
+66,0,85.64,43,1,Offer 15% Discount
+58,0,99.13,70,1,Offer 15% Discount
+70,0,89.87,34,1,Offer 15% Discount
+51,0,82.69,9,1,Offer 15% Discount
+58,0,113.22,24,1,Offer 15% Discount
+41,2,80.61,19,1,Offer 15% Discount
+58,0,71.53,32,1,Call from VIP Agent
+48,0,40.79,7,1,Send Standard Retention Email
+56,0,81.48,39,1,Offer 15% Discount
+31,0,94.37,43,1,Offer 15% Discount
+55,0,84.54,16,1,Offer 15% Discount
+21,0,118.78,35,1,Offer 15% Discount
+48,0,64.6,37,1,Call from VIP Agent
+76,0,58.77,7,1,Send Standard Retention Email
+38,0,105.94,23,1,Offer 15% Discount
+49,0,68.99,3,1,Send Satisfaction Survey
+27,0,90.26,57,1,Offer 15% Discount
+75,1,40.6,7,1,Send Standard Retention Email
+72,0,24.03,11,1,Send Standard Retention Email
+35,0,102.49,1,1,Offer 15% Discount
+52,0,114.25,29,1,Offer 15% Discount
+64,0,98.99,23,1,Offer 15% Discount
+28,2,103.15,3,1,Offer 15% Discount
+31,0,110.76,20,1,Offer 15% Discount
+40,0,62.9,33,1,Call from VIP Agent
+26,1,96.62,11,1,Offer 15% Discount
+77,0,86.16,42,1,Offer 15% Discount
+29,1,102.01,43,1,Offer 15% Discount
+38,0,77.94,34,1,Call from VIP Agent
+20,1,85.68,8,1,Offer 15% Discount
+54,0,98.27,37,1,Offer 15% Discount
+46,0,112.48,32,1,Offer 15% Discount
+51,0,92.03,24,1,Offer 15% Discount
+34,0,87.39,11,1,Offer 15% Discount
+49,0,112.17,40,1,Offer 15% Discount
+65,0,108.39,29,1,Offer 15% Discount
+46,1,81.49,39,1,Offer 15% Discount
+48,0,56.16,2,1,Send Satisfaction Survey
+72,0,61.1,5,1,Send Satisfaction Survey
+53,0,116.05,36,1,Offer 15% Discount
+72,0,112.19,44,1,Offer 15% Discount
+25,0,107.97,24,1,Offer 15% Discount
+34,0,80.01,41,1,Offer 15% Discount
+54,0,62.8,48,1,Call from VIP Agent
+42,0,112.86,45,1,Offer 15% Discount
+71,1,113.92,9,1,Offer 15% Discount
+45,0,72.37,34,1,Call from VIP Agent
+53,0,63.26,38,1,Call from VIP Agent
+20,1,112.91,11,1,Offer 15% Discount
+21,0,61.15,9,1,Send Standard Retention Email
+77,0,98.94,24,1,Offer 15% Discount
+23,0,113.12,34,1,Offer 15% Discount
+41,0,96.92,33,1,Offer 15% Discount
+69,0,82.46,11,1,Offer 15% Discount
+58,0,81.86,1,1,Offer 15% Discount
+22,1,112.31,2,1,Offer 15% Discount
+60,0,85.91,36,1,Offer 15% Discount
+40,0,76.86,34,1,Call from VIP Agent
+25,0,92.6,2,1,Offer 15% Discount
+62,1,65.27,1,1,Send Satisfaction Survey
+61,0,115.49,44,1,Offer 15% Discount
+68,2,84.42,5,1,Offer 15% Discount
+62,2,85.46,11,1,Offer 15% Discount
+45,0,60.06,11,1,Send Standard Retention Email
+53,1,119.61,8,1,Offer 15% Discount
+26,0,40.12,11,1,Send Standard Retention Email
+49,0,89.75,47,1,Offer 15% Discount
+53,0,118.18,44,1,Offer 15% Discount
+44,0,94.64,5,1,Offer 15% Discount
+52,0,83.97,15,1,Offer 15% Discount
+73,0,69.84,6,1,Send Standard Retention Email
+43,0,30.96,20,1,Send Standard Retention Email
+46,0,23.89,10,1,Send Standard Retention Email
+54,0,38.8,5,1,Send Satisfaction Survey
+61,0,114.71,2,1,Offer 15% Discount
+74,0,114.2,36,1,Offer 15% Discount
+76,0,106.54,22,1,Offer 15% Discount
+57,0,83.4,48,1,Offer 15% Discount
+62,1,98.53,38,1,Offer 15% Discount
+66,0,52.85,11,1,Send Standard Retention Email
+71,0,81.2,4,1,Offer 15% Discount
+35,0,44.38,31,1,Call from VIP Agent
+32,0,74.3,5,1,Send Satisfaction Survey
+27,1,114.12,3,1,Offer 15% Discount
+74,0,94.93,24,1,Offer 15% Discount
+70,1,108.41,11,1,Offer 15% Discount
+27,2,97.76,8,1,Offer 15% Discount
+31,0,116.48,38,1,Offer 15% Discount
+73,0,115.55,29,1,Offer 15% Discount
+51,1,102.03,10,1,Offer 15% Discount
+46,1,99.38,6,1,Offer 15% Discount
+71,0,82.81,55,1,Offer 15% Discount
+73,0,81.58,22,1,Offer 15% Discount
+32,0,42.97,31,1,Call from VIP Agent
+40,1,95.25,17,1,Offer 15% Discount
+47,0,92.3,10,1,Offer 15% Discount
+54,0,28.12,1,1,Send Satisfaction Survey
+69,0,100.55,29,1,Offer 15% Discount
+45,0,28.85,5,1,Send Satisfaction Survey
+66,0,56.08,5,1,Send Satisfaction Survey
+60,0,62.95,2,1,Send Satisfaction Survey
+49,0,102.81,46,1,Offer 15% Discount
+36,1,85.56,7,1,Offer 15% Discount
+53,0,41.26,15,1,Send Standard Retention Email
+29,0,115.44,13,1,Offer 15% Discount
+44,0,96.36,50,1,Offer 15% Discount
+37,0,99.88,42,1,Offer 15% Discount
+39,0,75.27,39,1,Call from VIP Agent
+51,0,45.91,21,1,Send Standard Retention Email
+36,0,45.22,23,1,Send Standard Retention Email
+44,0,113.71,11,1,Offer 15% Discount
+26,0,111.45,34,1,Offer 15% Discount
+49,1,119.05,2,1,Offer 15% Discount
+55,0,96.42,6,1,Offer 15% Discount
+62,0,91.88,33,1,Offer 15% Discount
+23,0,114.36,7,1,Offer 15% Discount
+33,1,94.39,3,1,Offer 15% Discount
+46,0,71.67,10,1,Send Standard Retention Email
+66,0,101.19,15,1,Offer 15% Discount
+62,1,109.41,40,1,Offer 15% Discount
+31,0,103.28,68,1,Offer 15% Discount
+64,0,76.05,3,1,Send Satisfaction Survey
+56,1,71.51,3,1,Send Satisfaction Survey
+39,0,107.29,13,1,Offer 15% Discount
+67,0,81.89,11,1,Offer 15% Discount
+62,1,117.95,15,1,Offer 15% Discount
+30,0,64.75,27,1,Call from VIP Agent
+29,0,107.34,10,1,Offer 15% Discount
+66,1,110.85,3,1,Offer 15% Discount
+68,0,56.0,25,1,Call from VIP Agent
+29,0,57.62,44,1,Call from VIP Agent
+48,0,83.38,15,1,Offer 15% Discount
+32,2,102.69,9,1,Offer 15% Discount
+42,0,76.37,5,1,Send Satisfaction Survey
+25,0,88.89,28,1,Offer 15% Discount
+57,0,88.15,30,1,Offer 15% Discount
