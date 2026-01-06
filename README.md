@@ -75,7 +75,6 @@ Our final deployed model is a **Voting Classifier** (combining Random Forest, Gr
 | Confusion Matrix | ROC Curve |
 | :---: | :---: |
 | ![Confusion Matrix](images/confusion_matrix.png) | ![ROC Curve](images/roc_curve.png) |
-| *Modelimiz churn olanları tespit etmekte oldukça başarılı.* | *AUC skorunun 0.84 olması ayrımın güçlü olduğunu gösterir.* |
 
 ---
 
