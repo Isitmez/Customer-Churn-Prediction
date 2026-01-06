@@ -114,6 +114,3 @@ Open `notebooks/CustomerChurnPrediction.ipynb` and run all cells. The trained mo
 
 ---
 
-```
-
-```
